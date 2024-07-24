@@ -5,7 +5,7 @@
  * 2. 如果用源代码编译，则直接 include 源代码中的 NvOnnxParser.h
  */
 // #include <NvOnnxParser.h>
-#include "D:/CV/Environments/onnx-tensorrt-release-8.0/NvOnnxParser.h"
+#include "../../../3rd_third/onnx-tensorrt/NvOnnxParser.h"
 
 #include "cuda-tensorrt-api.h"
 
